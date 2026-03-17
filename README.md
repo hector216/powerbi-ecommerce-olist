@@ -29,8 +29,8 @@ Análisis de +99,000 órdenes entre 2016-2018.
 | Review Score Promedio | 4.09 / 5 |
 
 ## 📸 Screenshots
-![Resumen Ejecutivo](imagen/resumen-ejecutivo.png)
-![Métricas de Negocio](imagen/dashboard1-metricas.png)
+![Resumen Ejecutivo](image/resumen-ejecutivo.png)
+![Métricas de Negocio](image/dashboard1-metricas.png)
 
 ## 👤 Autor
 Héctor — Data Analytics & BI Portfolio
