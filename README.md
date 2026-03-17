@@ -38,7 +38,7 @@ mapa de Brasil con distribución de ventas por estado. Incluye slicer por año.
 
 ![Métricas de Negocio](image/dashboard1-metricas.png)
 
-### Página 2 — Análisis de Clientes ⭐ (Página Estrella)
+### Página 2 — Análisis de Clientes
 
 Analiza el comportamiento de los clientes usando CLV Promedio, Frecuencia 
 de compra y distribución geográfica. Incluye revenue por tipo de pago, 
